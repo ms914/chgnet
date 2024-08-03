@@ -8,4 +8,4 @@ https://github.com/AIforGreatGood/charge3net
 
 the high value of the chgnet variants is to precompute relaxed structures and finally run one DFT computation to speed up DFT calculations 
 
-- molecules: equivariant GNN w/ many body interactions https://arxiv.org/html/2406.13265v1 
+- molecules: equivariant GNN w/ many body interactions https://arxiv.org/html/2406.13265v1
