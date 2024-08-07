@@ -2,6 +2,8 @@
 
 - chgnet is developped by Ceder & Berkeley Lawrence Livermore Lab for ionic materials
 
+- https://chgnet.lbl.gov
+
 - it has been extended to equivariant NN (which is basically spherical harmonics & Clebsch Gordan Coefficients)
 
 https://github.com/AIforGreatGood/charge3net
